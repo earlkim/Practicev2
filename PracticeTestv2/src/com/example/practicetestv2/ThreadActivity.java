@@ -37,6 +37,7 @@ public class ThreadActivity extends Activity {
 				mTimerThread.setDaemon(true); //메인이 종료하면 같이 종료
 				mTimerThread.start();
 				
+				
 			}
 		});
 		
