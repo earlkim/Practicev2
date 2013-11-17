@@ -22,6 +22,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.practicetestv2.ThreadActivity"
+            android:label="@string/title_activity_thread" >
+        </activity>
     </application>
 
 </manifest>
