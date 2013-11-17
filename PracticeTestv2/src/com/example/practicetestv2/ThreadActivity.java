@@ -48,7 +48,7 @@ public class ThreadActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				mTimer
+	//			mTimer
 				
 			}
 		});
